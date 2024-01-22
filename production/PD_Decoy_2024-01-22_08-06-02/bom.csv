@@ -1,8 +1,0 @@
-﻿Designator,Footprint,Quantity,Value,LCSC Part #
-C1,0805,1,1uF,
-D1,0805,1,LED,
-J1,USB_C_Receptacle_HRO_TYPE-C-31-M-12,1,USB_C_Receptacle_USB2.0,
-R1,1210,1,1k,
-R2,0805,1,1k,
-R4,0805,1,10k,
-U1,ESSOP-10_L4.9-W3.9-P1.0-LS6.0-TL-EP,1,CH224K,

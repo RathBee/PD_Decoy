@@ -27,3 +27,9 @@ fp-info-cache
 # Exported BOM files
 *.xml
 *.csv
+
+#gerber files
+gbr
+
+#exported JLC SMT BOM and positions
+production

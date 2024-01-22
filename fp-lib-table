@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "WCH")(type "KiCad")(uri "${KIPRJMOD}/WCH.pretty")(options "")(descr ""))
+)
